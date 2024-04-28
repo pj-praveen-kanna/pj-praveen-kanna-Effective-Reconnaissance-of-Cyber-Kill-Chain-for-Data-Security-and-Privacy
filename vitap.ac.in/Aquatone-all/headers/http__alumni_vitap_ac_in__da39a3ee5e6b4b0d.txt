@@ -1,0 +1,14 @@
+200 OK
+Set-Cookie: vaave_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22636a2dc3465d746dd5b4358c2b62d35c%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22172.31.31.237%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A120%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.140%20Safari%2F537.36%20Edge%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1714279039%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7Db1891cea5b4a6da67e82b39a655d98e3; expires=Wed, 08 May 2024 04:37:19 GMT; Max-Age=864000; path=/; secure; HttpOnly; SameSite=Strict vaave_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22636a2dc3465d746dd5b4358c2b62d35c%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22172.31.31.237%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A120%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.140%20Safari%2F537.36%20Edge%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1714279039%3B%7Dbbcad723e69f4e89b3ebe76e183b5576; expires=Wed, 08 May 2024 04:37:19 GMT; Max-Age=864000; path=/; secure; HttpOnly; SameSite=Strict vaave_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22636a2dc3465d746dd5b4358c2b62d35c%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22172.31.31.237%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A120%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.140%20Safari%2F537.36%20Edge%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1714279039%3B%7Dbbcad723e69f4e89b3ebe76e183b5576; expires=Wed, 08 May 2024 04:37:19 GMT; Max-Age=864000; path=/; secure; HttpOnly; SameSite=Strict vaave_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22636a2dc3465d746dd5b4358c2b62d35c%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22172.31.31.237%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A120%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.140%20Safari%2F537.36%20Edge%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1714279039%3B%7Dbbcad723e69f4e89b3ebe76e183b5576; expires=Wed, 08 May 2024 04:37:19 GMT; Max-Age=864000; path=/; secure; HttpOnly; SameSite=Strict
+X-Server-Version: Ladakh
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Server: nginx
+Date: Sun, 28 Apr 2024 04:37:19 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Referrer-Policy: strict-origin
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(*),microphone=(),camera=(),fullscreen=(self),payment=()
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval';connect-src *;img-src * data:; frame-src *; style-src * 'unsafe-inline';font-src * data:;

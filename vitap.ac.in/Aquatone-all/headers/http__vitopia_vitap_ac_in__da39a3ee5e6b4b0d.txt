@@ -1,0 +1,15 @@
+200 OK
+X-Vercel-Cache: HIT
+Access-Control-Allow-Origin: *
+Server: Vercel
+Etag: W/"a67b97e993ad513453917d9c51da67fc"
+Retry-Count: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=63072000
+X-Matched-Path: /
+X-Vercel-Id: bom1::kb9nq-1714279038787-6588392c7941
+Content-Disposition: inline
+Date: Sun, 28 Apr 2024 04:37:18 GMT
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url
+Age: 5526514

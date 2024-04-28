@@ -1,0 +1,13 @@
+200 OK
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Cf-Ray: 87b45b4c6ced3199-BOM
+Alt-Svc: h3=":443"; ma=86400
+Date: Sun, 28 Apr 2024 04:37:23 GMT
+X-Matched-Path: /
+X-Powered-By: Next.js
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+X-Edge-Runtime: 1
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UWfvYY284B%2B%2FQf9M1mhYPKgPk5Nmklm66dukwAxu1zqfko0Kuf0Ux4DwjRR8q8hWekqfwJQtCtQIv8HN%2F8AB56pghHJCU5wINkX4AstWm%2FoJfvEFM5dG%2FfI4k7z%2FW3bBeiGA7Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
